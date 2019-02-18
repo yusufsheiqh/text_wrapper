@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Yusuf"]
   spec.email         = ["yusuf@madetech.com"]
 
-  spec.summary       = %q{A simple text wrapper bundled as a gem package for Ruby.}
-  spec.description   = %q{Text wrapper created with RSpec using TDD as the best method of approach.}
+  spec.summary       = "A simple text wrapper bundled as a gem package for Ruby."
+  spec.description   = "Text wrapper created with RSpec using TDD as the best method of approach."
   spec.homepage      = "https://github.com/yusufsheiqh/text_wrapper"
   spec.license       = "MIT"
 
